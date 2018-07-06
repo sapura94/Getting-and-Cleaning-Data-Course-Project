@@ -1,7 +1,6 @@
 #Peer-graded Assignment :Getting and Cleaning Data Course Project
 
 getwd()
-[1] "C:/Users/nor.sapura/Documents"
 
 #load the package dplyr 
 library(dplyr)
